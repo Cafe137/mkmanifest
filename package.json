@@ -18,6 +18,7 @@
         "typescript": "^5.9.3"
     },
     "dependencies": {
+        "@actions/core": "^2.0.0",
         "@ethersphere/bee-js": "^10.1.1",
         "cafe-utility": "^33.3.2"
     }
